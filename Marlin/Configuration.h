@@ -82,6 +82,8 @@
  * :[-1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
  */
 #define SERIAL_PORT -1
+#define SERIAL_PORT_2 2
+#define BAUDRATE 115200
 
 /**
  * Serial Port Baud Rate
